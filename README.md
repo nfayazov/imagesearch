@@ -1,4 +1,4 @@
-# API Basejump: Image Seach Abstraction
+# API Basejump: Image Search Abstraction
 
 By Nadir Fayazov
 
