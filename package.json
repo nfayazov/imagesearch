@@ -1,0 +1,19 @@
+{
+  "name": "image_search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "google-images": "^2.1.0",
+    "mongodb": "^2.2.31",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
